@@ -1,0 +1,11 @@
+﻿  GroceryQueueSimulation.cpp
+c:\users\david\onedrive\cpts122\programming assignments\pa5 - grocery queue simulation\pa5 - grocery queue simulation\groceryqueuesimulation.cpp(88): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Data.cpp
+  Generating Code...
+  Compiling...
+  main.cpp
+  QueueNode.cpp
+  Queue.cpp
+  Generating Code...
+  PA5 - Grocery Queue Simulation.vcxproj -> C:\Users\David\OneDrive\CptS122\Programming Assignments\PA5 - Grocery Queue Simulation\Debug\PA5 - Grocery Queue Simulation.exe
+  PA5 - Grocery Queue Simulation.vcxproj -> C:\Users\David\OneDrive\CptS122\Programming Assignments\PA5 - Grocery Queue Simulation\Debug\PA5 - Grocery Queue Simulation.pdb (Full PDB)
